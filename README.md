@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sourabh 👋</h1>
+<h1 align="center">Hello World, I'm Sourabh 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xoNWhrM3Q2NzR6eXBiZzFsaTV2eXBuMXBhaW4ybW1nY2ozZGFsYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Data GIF">
@@ -23,37 +23,15 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project Name | Description | Tools Used |
-|--------------|-------------|------------|
-| 🚗 [Car Sales Dashboard](#) | Power BI dashboard to analyze car sales trends, profit, and inventory KPIs | Power BI, DAX |
-| 🛒 E-Commerce Insights | Sales and user behavior analysis dashboard for e-commerce platform | Tableau, SQL |
-| 📈 Revenue Forecasting | Time-series model to predict revenue trends using historical data | Python, Pandas, Prophet |
-| 💼 HR Attrition Analysis | Employee attrition model and visualization for HR analytics | Power BI, Excel |
-
-> *Visit my repositories for source files, screenshots, and case studies.*
-
----
 
 ### 📫 Let's Connect
 
 - 🌐 [Portfolio Website](#) *(Coming Soon)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 📧 Email: your.email@example.com  
-- 🐍 [Kaggle](https://www.kaggle.com/yourusername)  
-- 💻 [LeetCode](https://leetcode.com/yourusername)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sourabhdiwakar1/)
+- 📧 Email: sourabh1999516@gmail.com  
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="300"/>
-</p>
-
----
 
 ### ⚙️ Tech Stack
 
