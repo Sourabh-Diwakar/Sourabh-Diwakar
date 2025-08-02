@@ -1,51 +1,65 @@
-<h1 align="center">Hello World, I'm Sourabh 👋</h1>
+<h1 align="center">Hi World there, I'm Sourabh 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xoNWhrM3Q2NzR6eXBiZzFsaTV2eXBuMXBhaW4ybW1nY2ozZGFsYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Data GIF">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Data Analyst Banner GIF" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-🎯 **Data Analyst** with over **3 years of experience** in managing, analyzing, and visualizing large datasets to drive impactful business decisions.  
+I’m a **Data Analyst** with over **3 years of experience** turning raw data into actionable insights that drive business decisions. I specialize in **data wrangling, visualization, dashboard development, and process automation** using tools like:
 
-🧰 Proficient in **Python**, **SQL**, **Power BI**, **Tableau**, and **Excel** — I build powerful dashboards and automate workflows to uncover insights and improve performance.
+-  **Python |  Power BI |  Tableau |  SQL |  Excel**
 
-📊 Passionate about turning raw data into actionable stories. I specialize in:
-- Building interactive dashboards
-- Statistical analysis & forecasting
-- Data mining & transformation
-- Business reporting & KPIs
-- Process automation
+With a proven track record of managing large datasets, creating executive-level dashboards, and coordinating cross-functional analytics projects, I bring a **results-oriented, methodical approach** to every challenge.
 
-💡 Strong background in project coordination, stakeholder communication, and analytical storytelling across various industries.
+> I'm passionate about finding patterns in chaos and helping businesses make smarter, faster decisions.
 
 ---
 
+### Tech Stack
+
+| Language/Tool | Expertise |
+|---------------|-----------|
+| `SQL`         | Data analysis, ETL, complex joins, subqueries |
+| `Python`      | Pandas, NumPy, Matplotlib, Seaborn, automation |
+| `Power BI`    | KPI dashboards, DAX, drill-down visuals |
+| `Tableau`     | Data storytelling, advanced filters, interactivity |
+| `Excel`       | PivotTables, formulas, automation via VBA |
+
+---
+
+### Featured Projects
+
+#### [Car Sales Dashboard](https://github.com/yourusername/car-sales-dashboard)
+> A Power BI dashboard analyzing sales by car model, region, and profit metrics.
+
+#### 🍕 [Pizza Sales SQL + Power BI](https://github.com/yourusername/pizza-sales-analysis)
+> Full-cycle analysis using SQL for querying and Power BI for visual insights.
+
+#### 💼 HR Attrition Analysis
+> An exploratory data analysis and attrition prediction dashboard to support HR decisions.
+
+#### 🛒 E-commerce Revenue Forecasting
+> Built a time-series forecasting model in Python to project revenue trends.
+
+---
 
 ### 📫 Let's Connect
 
-- 🌐 [Portfolio Website](#) *(Coming Soon)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/sourabhdiwakar1/)
+- 🔗 LinkedIn: https://www.linkedin.com/in/sourabhdiwakar1/
 - 📧 Email: sourabh1999516@gmail.com  
+- 🌐 Portfolio Website: (*Coming Soon*)
 
 ---
 
+### 📊 GitHub Stats
 
-### ⚙️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 🌟 Quote I Live By
-> “Without data, you're just another person with an opinion.” — W. Edwards Deming
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vue-dark" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vue-dark" width="300"/>
+</p>
 
 ---
 
