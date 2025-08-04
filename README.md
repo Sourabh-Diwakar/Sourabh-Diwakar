@@ -31,7 +31,7 @@ With a proven track record of managing large datasets, creating executive-level 
 ---
 
 
-### 📫 Let's Connect
+###  Let's Connect
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/sourabhdiwakar1/
 - 📧 Email: sourabh1999516@gmail.com  
