@@ -30,21 +30,6 @@ With a proven track record of managing large datasets, creating executive-level 
 
 ---
 
-### Featured Projects
-
-#### [Car Sales Dashboard](https://github.com/yourusername/car-sales-dashboard)
-> A Power BI dashboard analyzing sales by car model, region, and profit metrics.
-
-#### 🍕 [Pizza Sales SQL + Power BI](https://github.com/yourusername/pizza-sales-analysis)
-> Full-cycle analysis using SQL for querying and Power BI for visual insights.
-
-#### 💼 HR Attrition Analysis
-> An exploratory data analysis and attrition prediction dashboard to support HR decisions.
-
-#### 🛒 E-commerce Revenue Forecasting
-> Built a time-series forecasting model in Python to project revenue trends.
-
----
 
 ### 📫 Let's Connect
 
