@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I’m a **Data Analyst** with over **3 years of experience** turning raw data into actionable insights that drive business decisions. I specialize in **data wrangling, visualization, dashboard development, and process automation** using tools like:
 
@@ -39,7 +39,7 @@ With a proven track record of managing large datasets, creating executive-level 
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vue-dark" width="400"/>
